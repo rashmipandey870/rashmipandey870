@@ -47,10 +47,11 @@ I'm a Computer Science & Engineering student at Amity University Jharkhand, inte
 
 ### 🧠 [100 Days of Code – DSA Practice](https://github.com/rashmipandey870/100-days-of-code)
 *Data Structures & Algorithms + JavaScript + Unit Testing*
-- A structured repository of 100+ problems solved across:
+- A structured repository of 160+ problems solved across:
   - **Arrays & Hashing** • **Two Pointers & Sliding Window** • **Stacks & Queues**
   - **Binary Search** • **Linked Lists** • **Trees & BST**
-  - **Heaps** • **Backtracking** • **Graphs** • **Dynamic Programming**
+  - **Heaps & Tries** • **Backtracking** • **Graphs & BFS/DFS**
+  - **Dynamic Programming** • **Intervals & Matrix** • **Greedy & Bit Manipulation**
 - Each challenge includes clean code, time/space complexity analysis, and automated test assertions.
 
 ### 📅 [Study Planner & Scheduling Algorithm](https://github.com/rashmipandey870/Study-Planner-Scheduling-Algorithm-)
